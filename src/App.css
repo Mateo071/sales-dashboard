@@ -1,0 +1,24 @@
+.NavBar {
+  height: 100%;
+  background-color:rgb(192, 188, 188);
+  padding: 30px;
+}
+
+.Dashboard {
+  min-height: 500px;
+  background-color: aliceblue;
+}
+
+.top-option {
+  height: 80px;
+  background-color:rgb(192, 188, 188);
+  padding: 30px;
+  z-index: 3;
+}
+
+.bottom-option {
+  height: 200px;
+  background-color:rgb(192, 188, 188);
+  padding: 30px;
+  z-index: 3;
+}
